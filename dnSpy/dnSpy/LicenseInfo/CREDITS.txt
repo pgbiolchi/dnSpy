@@ -105,3 +105,4 @@ Portuguese, Brazilian:
 	Marcos De Noni Buturri (marcosdenoni)
 	Bruno Silva (irbein.tepes)
 	EduardooViip
+	Guilherme Biolchi (pgbiolchi)
